@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416331207585",
+    "firebase_url": "https://backend-practise-b5f09-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "backend-practise-b5f09",
+    "storage_bucket": "backend-practise-b5f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416331207585:android:570e71db9e3c2ca8b171e0",
+        "android_client_info": {
+          "package_name": "com.tunkinnovation.chnatingv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416331207585-pll5o70hph9qtgrcs6rutbq21tp3h3sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVngyGvUC9GorXX13MONOlOiekOTh79I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416331207585-pll5o70hph9qtgrcs6rutbq21tp3h3sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416331207585-adfkr8dascna1bj35hlbd81gaitaalau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.backend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
